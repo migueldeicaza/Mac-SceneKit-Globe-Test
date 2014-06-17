@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpriteKitEarth/MainWindowController.fs">
+    <Files>
+      <File FileName="SpriteKitEarth/AppDelegate.fs" Line="1" Column="1" />
+      <File FileName="SpriteKitEarth/MainWindowController.fs" Line="7" Column="20" />
+      <File FileName="SpriteKitEarth/GlobeScene.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
